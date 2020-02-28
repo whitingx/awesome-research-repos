@@ -6,6 +6,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 - [Articles](#articles)
   - [2020](#2020)
   - [2019](#2019)
+- [Courses](#courses)
 - [Platforms](#platforms)
 - [Talks](#talks)
 
@@ -22,6 +23,12 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 ### 2019
 
 [Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
+
+## Courses
+
+[Research Data Management and Sharing](https://www.coursera.org/learn/data-management)
+
+[Managing Qualitative Social Science Data](https://managing-qualitative-data.org/)
 
 ## Platforms
 
