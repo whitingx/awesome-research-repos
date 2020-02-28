@@ -4,11 +4,21 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 ## Table of Contents
 
 - [Articles](#articles)
+  - [2020](#2020)
+  - [2019](2019)
 - [Platforms](#platforms)
 
 ### Articles
 
+### 2020
+
 [The Hidden Benefits of Building an Insights Repository](https://uxdesign.cc/the-hidden-benefits-of-building-an-insights-repository-f9f31d072f0f)
+
+[Why UX Research Repositories Fail](https://blog.getenjoyhq.com/why-ux-research-repositories-fail/)
+
+### 2019
+
+[Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
 
 ### Platforms
 
