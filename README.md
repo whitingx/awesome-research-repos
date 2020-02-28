@@ -5,7 +5,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 - [Articles](#articles)
   - [2020](#2020)
-  - [2019](2019)
+  - [2019](#2019)
 - [Platforms](#platforms)
 
 ### Articles
