@@ -3,14 +3,14 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 ## Table of Contents
 
-- [Articles](#articles)
+- 📝 [Articles](#articles)
   - [2020](#2020)
   - [2019](#2019)
-- [Courses](#courses)
-- [Platforms](#platforms)
-- [Talks](#talks)
+- 🎓 [Courses](#courses)
+- 🧰 [Platforms](#platforms)
+- 🗣 [Talks](#talks)
 
-## Articles
+## 📝 Articles
 
 ### 2020
 
@@ -24,13 +24,13 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 [Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
 
-## Courses
+## 🎓 Courses
 
 [Research Data Management and Sharing](https://www.coursera.org/learn/data-management)
 
 [Managing Qualitative Social Science Data](https://managing-qualitative-data.org/)
 
-## Platforms
+## 🧰 Platforms
 
 ⛔️ _indicates inactive platform_
 
@@ -96,6 +96,6 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 [UX360](https://www.tandemseven.com/ux360-customer-user-experience-software-tools/)
 
-## Talks
+## 🗣 Talks
 
 [Keeping Research Insights Alive with a Customer Research Repository - Neil Turner](https://youtu.be/U2l2qAa4rso)
