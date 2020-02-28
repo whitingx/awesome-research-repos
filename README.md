@@ -8,7 +8,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
   - [2019](#2019)
 - [Platforms](#platforms)
 
-### Articles
+## Articles
 
 ### 2020
 
@@ -20,7 +20,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 [Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
 
-### Platforms
+## Platforms
 
 ⛔️ _indicates inactive platform_
 
