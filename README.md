@@ -7,6 +7,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
   - [2020](#2020)
   - [2019](#2019)
 - [Platforms](#platforms)
+- [Talks](#talks)
 
 ## Articles
 
@@ -15,6 +16,8 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 [The Hidden Benefits of Building an Insights Repository](https://uxdesign.cc/the-hidden-benefits-of-building-an-insights-repository-f9f31d072f0f)
 
 [Why UX Research Repositories Fail](https://blog.getenjoyhq.com/why-ux-research-repositories-fail/)
+
+[Atomic UX Research as a Research Framework](https://consider.ly/blog/atomic-ux-research/)
 
 ### 2019
 
@@ -85,3 +88,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 [UserBit](https://userbitapp.com/)
 
 [UX360](https://www.tandemseven.com/ux360-customer-user-experience-software-tools/)
+
+## Talks
+
+[Keeping Research Insights Alive with a Customer Research Repository - Neil Turner](https://youtu.be/U2l2qAa4rso)
