@@ -3,12 +3,12 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 ## Table of Contents
 
-- [📝 Articles](#articles)
+- 📝 [Articles](#-articles)
   - [2020](#2020)
   - [2019](#2019)
-- [🎓 Courses](#courses)
-- [🧰 Platforms](#platforms)
-- [🗣 Talks](#talks)
+- 🎓 [Courses](#-courses)
+- 🧰 [Platforms](#-platforms)
+- 🗣 [Talks](#-talks)
 
 ## 📝 Articles
 
