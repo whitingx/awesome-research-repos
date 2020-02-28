@@ -6,6 +6,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 - 📝 [Articles](#-articles)
   - [2020](#2020)
   - [2019](#2019)
+- 👥 [Communities](#-communities)
 - 🎓 [Courses](#-courses)
 - 🧰 [Platforms](#-platforms)
 - 🗣 [Talks](#-talks)
@@ -23,6 +24,10 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 ### 2019
 
 [Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
+
+## 👥 Communities
+
+[ResearchOps Community](https://researchops.community/) - A global group who’ve come together to discuss the operations and operationalization of user research and design research — also known as ResearchOps. The Community Slack includes a specific channel for ___ResearchRepo___ discussion and knowledge sharing.
 
 ## 🎓 Courses
 
