@@ -4,7 +4,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 ## Table of Contents
 
 - [Articles](#articles)
-- Platforms
+- [Platforms](#platforms)
 
 ### Articles
 
