@@ -29,6 +29,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 ## 👥 Communities
 
+[ResearchOps Community](https://researchops.community/) - A global group who’ve come together to discuss the operations and operationalization of user research and design research — also known as ResearchOps. The Community Slack includes a specific channel for **_ResearchRepo_** discussion and knowledge sharing.
 
 ## 🎓 Courses
 
