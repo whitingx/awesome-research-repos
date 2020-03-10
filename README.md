@@ -21,13 +21,15 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 [Atomic UX Research as a Research Framework](https://consider.ly/blog/atomic-ux-research/)
 
+[How Microsoft’s Human Insights Library Creates a Living Body of Knowledge](https://medium.com/microsoft-design/how-microsofts-human-insights-library-creates-a-living-body-of-knowledge-fff54e53f5ec)
+
 ### 2019
 
 [Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
 
 ## 👥 Communities
 
-[ResearchOps Community](https://researchops.community/) - A global group who’ve come together to discuss the operations and operationalization of user research and design research — also known as ResearchOps. The Community Slack includes a specific channel for ___ResearchRepo___ discussion and knowledge sharing.
+[ResearchOps Community](https://researchops.community/) - A global group who’ve come together to discuss the operations and operationalization of user research and design research — also known as ResearchOps. The Community Slack includes a specific channel for **_ResearchRepo_** discussion and knowledge sharing.
 
 ## 🎓 Courses
 
