@@ -21,11 +21,11 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 [Atomic UX Research as a Research Framework](https://consider.ly/blog/atomic-ux-research/)
 
-[How Microsoft’s Human Insights Library Creates a Living Body of Knowledge](https://medium.com/microsoft-design/how-microsofts-human-insights-library-creates-a-living-body-of-knowledge-fff54e53f5ec)
-
 ### 2019
 
 [Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
+
+[How Microsoft’s Human Insights Library Creates a Living Body of Knowledge](https://medium.com/microsoft-design/how-microsofts-human-insights-library-creates-a-living-body-of-knowledge-fff54e53f5ec)
 
 ## 👥 Communities
 
