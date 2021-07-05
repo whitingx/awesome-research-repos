@@ -4,6 +4,7 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 ## Table of Contents
 
 - 📝 [Articles](#-articles)
+  - [2021](#2021)
   - [2020](#2020)
   - [2019](#2019)
 - 👥 [Communities](#-communities)
@@ -13,19 +14,27 @@ A collection of all things ResearchRepo. Inspired by 'awesome-*' repos. PRs welc
 
 ## 📝 Articles
 
+### 2021
+
+[Three unexpected ways a research repository makes your life easier](https://dovetailapp.com/blog/research-repository-user-research/)
+
 ### 2020
+
+[Atomic UX Research as a Research Framework](https://consider.ly/blog/atomic-ux-research/)
+
+[Research repositories in 10 minutes](https://dovetailapp.com/blog/research-repositories-10-minutes/)
 
 [The Hidden Benefits of Building an Insights Repository](https://uxdesign.cc/the-hidden-benefits-of-building-an-insights-repository-f9f31d072f0f)
 
 [Why UX Research Repositories Fail](https://blog.getenjoyhq.com/why-ux-research-repositories-fail/)
 
-[Atomic UX Research as a Research Framework](https://consider.ly/blog/atomic-ux-research/)
-
 ### 2019
 
-[Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
-
 [How Microsoft’s Human Insights Library Creates a Living Body of Knowledge](https://medium.com/microsoft-design/how-microsofts-human-insights-library-creates-a-living-body-of-knowledge-fff54e53f5ec)
+
+[Research repository: solving your organization’s research problems](https://dovetailapp.com/blog/user-ux-research-repository/)
+
+[Why Do You Need A UX Research System?](https://uxstudioteam.com/ux-blog/ux-research-system/)
 
 ## 👥 Communities
 
